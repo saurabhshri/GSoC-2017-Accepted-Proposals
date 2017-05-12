@@ -30,4 +30,4 @@ Github Profile : https://github.com/saurabhshri
 
 Email Address : saurabh.shrivastava54[at]gmail.com
 
-Have you been apllied to GSoC before? : No. First time GSoCer.
+Have you been applied to GSoC before? : No. First time GSoCer.
