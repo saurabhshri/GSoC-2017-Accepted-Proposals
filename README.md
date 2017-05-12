@@ -48,9 +48,8 @@ Yes, definitely. I would rather recommend removing all the information that you 
 
 ## Readme.md template.
 
-I am placing the template in the main directory. Simply rename this file and edit it. Here's the direct link.
+I am placing the template in the main directory. Simply rename this file and edit it. Here's the [direct link](https://github.com/saurabhshri/GSoC-2017-Accepted-Proposals/blob/master/readme-template.md "readme.md template.").
 
 # Note:
 
 The proposals in this repository are submitted by the student's themselves and are on their sole discretion.
-
