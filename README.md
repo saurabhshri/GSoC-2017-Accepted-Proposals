@@ -4,15 +4,15 @@ Contains information about accepted GSoC 2017 Projects across various organizati
 
 This year [1,318 out of 5,500](https://opensource.googleblog.com/2017/05/students-start-your-engineerings.html "Stats from Google open-source blog.") students were accepted in Google Summer of Code, 2017. A comprehensive list of the projects along with brief summary could be found [here](https://summerofcode.withgoogle.com/projects/ "Projects accepted into GSoC 2017.").
 
-While the project list is publically availabe, the proposals which the students sent to their respective communities for those projects aren't all publically available, or if they are, there is no central repository of the same. The aim of this repository is to collect as many proposals as possible at a single place and hence make it reachable to everyone.
+While the project list is publically available, the proposals which the students sent to their respective communities for those projects aren't all publically available, or if they are, there is no central repository of the same. The aim of this repository is to collect as many proposals as possible at a single place and hence make it reachable to everyone.
 
-The need to create this repository came when their was a discussion being held in the GSoC group and everyone was introduccing themseleves along with their project, but it was really hard to catch up and find something. Also this should come in handy to future GSoC participants as they can find everything at one place.
+The need to create this repository came when their was a discussion being held in the GSoC group and everyone was introducing themselves along with their project, but it was really hard to catch up and find something. Also this should come in handy to future GSoC participants as they can find everything at one place.
 
 ## Basic Architecture
 
-The main reposiory will include sub-directories, each directory corresponding to an organization. If your organization directory already exists, upload your proposal and summary in that directory, else please create the same.
+The main repository will include sub-directories, each directory corresponding to an organization. If your organization directory already exists, upload your proposal and summary in that directory, else please create the same.
 
-In each organization directory their will be sub-directories, each directory corresponding to a project. Please name your project directory with your project title and try to keep it short and explanotory.
+In each organization directory their will be sub-directories, each directory corresponding to a project. Please name your project directory with your project title and try to keep it short and explanatory.
 
 Each project directory will have minimum of two file - one readme.md containing information such as student description, project description, blog links, project links, repository link et cetera and the other - the proposal itself.
 
@@ -40,7 +40,7 @@ You may share your proposal through this repository.
 
 ## What should I write in readme.md?
 
-This is the file that will be displayed when someone open's your project directory. You are free to choose what content you want to display. I am providing a general tempelalte which may be followed in case you don't want to spend a lot of time thinking about it.
+This is the file that will be displayed when someone open's your project directory. You are free to choose what content you want to display. I am providing a general template which may be followed in case you don't want to spend a lot of time thinking about it.
 
 ## Can I remove my personal details from the proposal before uploading it?
 
