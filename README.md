@@ -16,25 +16,34 @@ In each organization directory their will be sub-directories, each directory cor
 
 Each project directory will have minimum of two file - one readme.md containing information such as student description, project description, blog links, project links, repository link et cetera and the other - the proposal itself.
 
+Basic directory tree would look like : 
+```
+├───GSoC-2017-Accepted-Proposals
+│   └───{Your Organization Name}
+│       └───{Your Project Name}
+│   └───CCExtractor
+│       └───CCAligner - Word by Word Audio Subtitle Sync
+
+```
+
 (If you have a better architecture or arrangement idea - feel free to post an issue / send a PR).
 
 ## How to submit a proposal?
 
 Submitting a proposal is easy. Simply follow the listed steps and you should be good to go.
 
-```
-1. Fork this repository.  
 
-2. Search for your organization directory. If the directory doesn't exist, simply create one.  
+1. Fork this repository (or you may click edit icon from Github Web).
+
+2. Search for your organization's directory. If the directory doesn't exist, **please create it**.  
 
 3. Open your organization's directory and create a directory with your project name.  
 
-4. In your project directory create/upload two files - readme.md and your project proposal which you submitted.
-You may use the template I provide for your readme.md file.  
+4. In your project directory create/upload **two** files - readme.md and your project proposal which you submitted.
+(You may optionally use the template I have provided below for your readme.md file.)  
 
 5. Commit changes and send a PR. I'll add it! :)
 
-```
 
 You may share your proposal through this repository.
 
